@@ -1,3 +1,5 @@
+package fibo;
+
 public class newJava {
     final long mod = 1000007;
     public matran multiplyMatrix(matran a, matran b) {
